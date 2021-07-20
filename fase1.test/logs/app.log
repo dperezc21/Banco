@@ -1,0 +1,2 @@
+14:31:54.482 [main] ERROR com.cmc.evaluacion.fase1.servicios.AdminClientes - archivo no encontrado java.io.FileNotFoundException: C:\Users\AdminCMC\Downloads\Clientes1.txt (El sistema no puede encontrar la ruta especificada)
+15:03:57.796 [main] ERROR com.cmc.evaluacion.fase1.servicios.AdminClientes - los datos en la linea del archivo leido no tiene el formato esperado java.lang.ArrayIndexOutOfBoundsException: 2
